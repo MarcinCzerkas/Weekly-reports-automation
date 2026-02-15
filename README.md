@@ -6,12 +6,12 @@ It was developed in April 2024.
 
 The solution automates the full weekly reporting cycle:
 
-	1.	Opens country-specific report files stored in a structured folder.
-	2.	Refreshes multiple Power Query connections.
-	3.	Updates report metadata (e.g. refresh date).
-	4.	Saves and renames the refreshed file with the current date.
-	5.	Sends the report via Outlook to predefined recipients.
-	6.	Logs execution details (date, time, user) in a journal sheet.
+1. Opens country-specific report files stored in a structured folder.
+2. Refreshes multiple Power Query connections.
+3. Updates report metadata (e.g. refresh date).
+4. Saves and renames the refreshed file with the current date.
+5. Sends the report via Outlook to predefined recipients.
+6. Logs execution details (date, time, user) in a journal sheet.
 
 The macro dynamically reads configuration (recipients, subject, body, send flag, scheduled day) from a control sheet, enabling non-technical users to manage distribution logic without modifying the code
 
