@@ -5,6 +5,7 @@ It was developed in April 2024.
 # Overview 🔍
 
 The solution automates the full weekly reporting cycle:
+
 	1.	Opens country-specific report files stored in a structured folder.
 	2.	Refreshes multiple Power Query connections.
 	3.	Updates report metadata (e.g. refresh date).
