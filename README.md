@@ -75,3 +75,5 @@ The macro dynamically reads configuration (recipients, subject, body, send flag,
 - Future improvement: structured error handling and logging of failures.
 
 This was one of my first professional automation projects and represents an early example of integrating data transformation (Power Query) with process automation (VBA) to deliver a complete reporting pipeline inside Excel.
+
+![](https://komarev.com/ghpvc/?username=MarcinCzerkas&style=flat-square&label=VIEWS&style=pixel)
